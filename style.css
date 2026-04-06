@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    background:#f3e8ff; /* light purple */
+    margin:0;
+}
+
+header {
+    background:#6a0dad; /* purple */
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+
+nav {
+    background:#4b0082; /* dark purple */
+    text-align:center;
+    padding:10px;
+}
+
+nav a {
+    color:white;
+    margin:10px;
+    text-decoration:none;
+}
+
+nav a:hover {
+    color:#ffd700; /* gold hover */
+}
+
+main {
+    padding:20px;
+}
+
+footer {
+    background:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
